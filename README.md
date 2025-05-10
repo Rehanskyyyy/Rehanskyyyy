@@ -1,6 +1,6 @@
-<h1>Hey, Rehan this side 👋</h1>
+<h1 align="center">Hey, Rehan this side 👋</h1>
 
-<p>Web Developer • MERN Stack • Shaping Ideas into Code</p>
+<p align="center">Web Developer • MERN Stack • Shaping Ideas into Code</p>
 
 
 ### 🚀 About Me  
@@ -24,5 +24,5 @@
 
 
 <p>
-  <em>"One step at a time, but always forward."</em>
+  <em align="center">"One step at a time, but always forward."</em>
 </p>
