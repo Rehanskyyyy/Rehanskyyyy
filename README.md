@@ -1,7 +1,7 @@
 <h1>Hey, Rehan this side 👋</h1>
-<p>
-  Web Developer • MERN Stack • Lifelong Learner
-</p>
+
+<p>Web Developer • MERN Stack • Shaping Ideas into Code</p>
+
 
 ### 🚀 About Me  
 - 🌱 Deep into **Next.js** and Full Stack Development  
@@ -9,10 +9,12 @@
 - 🎯 Goal to Craft sleek, scalable web apps and leave a mark in the dev world 
 - 📚 Continuously improving my skills and embracing new tech challenges
 
+
 ### 🧰 Tech Stack  
 **Frontend:** HTML, CSS, JS, React, Next.js 
 **Backend:** Node.js, Express  
 **Tools:** Git, GitHub, VS Code, Cursor  
+
 
 ### 🔗 Let's Connect 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-mohammad-6717a4345/)
@@ -20,6 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehanskyyyy)
 
 
+
 <p align="center">
-  <em>"Stay lowkey ● Work hard ● Let success make the noise"</em>
+  <em>"One step at a time, but always forward."</em>
 </p>
