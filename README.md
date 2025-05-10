@@ -20,8 +20,11 @@
 
 ---
 
-### 🔗 Let's Connect  
-[[LinedIn](#)](https://www.linkedin.com/in/rehan-mohammad-6717a4345/) • [[X](#)](https://x.com/Rehanskyyyy) • [Email](mailto:moh.rehan5292@gmail.com)
+### 🔗 Let's Connect 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rehan-mohammad-6717a4345/))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]((https://x.com/Rehanskyyyy))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/rehanskyyyy))
+
 
 ---
 
