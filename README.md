@@ -23,6 +23,6 @@
 
 
 
-<p>
-  <em align="center">"One step at a time, but always forward."</em>
+<p align="center">
+  <em>"One step at a time, but always forward."</em>
 </p>
