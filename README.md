@@ -11,9 +11,9 @@
 
 
 ### 🧰 Tech Stack  
-**Frontend:** HTML, CSS, JS, React, Next.js 
-**Backend:** Node.js, Express  
-**Tools:** Git, GitHub, VS Code, Cursor  
+**Frontend:** HTML, CSS, JS, React, Next.js   
+**Backend:** Node.js, Express   
+**Tools:** Git, GitHub, VS Code, Cursor   
 
 
 ### 🔗 Let's Connect 
@@ -23,6 +23,6 @@
 
 
 
-<p align="center">
+<p>
   <em>"One step at a time, but always forward."</em>
 </p>
