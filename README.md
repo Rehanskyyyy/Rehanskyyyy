@@ -21,9 +21,10 @@
 ---
 
 ### 🔗 Let's Connect 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rehan-mohammad-6717a4345/))
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]((https://x.com/Rehanskyyyy))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/rehanskyyyy))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehan-mohammad-6717a4345/)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rehanskyyyy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rehanskyyyy)
+
 
 
 ---
