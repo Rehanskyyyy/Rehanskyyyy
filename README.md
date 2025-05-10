@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey, Rehan this side 👋</h1>
+<p align="center">
+  Web Developer • MERN Stack • Lifelong Learner
+</p>
 
-<!--
-**Rehanskyyyy/Rehanskyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🌱 Deep into **Next.js** and Full Stack Development  
+- 🛠️ Building real-world, impactful projects  
+- 🎯 Goal to Craft sleek, scalable web apps and leave a mark in the dev world 
+- 📚 Continuously improving my skills and embracing new tech challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack  
+**Frontend:** HTML, CSS, JS, React, Next.js 
+**Backend:** Node.js, Express  
+**Tools:** Git, GitHub, VS Code, Cursor  
+
+---
+
+### 🔗 Let's Connect  
+[[LinedIn](#)](https://www.linkedin.com/in/rehan-mohammad-6717a4345/) • [[X](#)](https://x.com/Rehanskyyyy) • [Email](mailto:moh.rehan5292@gmail.com)
+
+---
+
+<p align="center">
+  <em>"Stay lowkey ● Work hard ● Let success make the noise"</em>
+</p>
