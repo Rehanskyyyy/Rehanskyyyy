@@ -43,7 +43,7 @@
 <p align="center">
   <strong>🔗 Let’s Link Up</strong><br/><br/>
   <a href="https://x.com/Rehanskyyyy">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <br/>
   
