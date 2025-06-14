@@ -1,21 +1,21 @@
-<h1 align="center">What’s up? Rehan here 🤟🏻</h1>
+<h1 align="center">Yo What's up? Rehan here 🤟🏻</h1>
 
-<p align="center">Web Developer • MERN Stack • Shaping Ideas into Code</p>
+<p align="center">Web Dev | MERN Stack | Making code look cool ⚡</p>
 
 <br/>
 
 <p align="center">
-  <strong>🚀 About Me</strong><br/><br/>
-  🌱 Deep into <strong>Next.js</strong> and Full Stack Development <br/>
-  🛠️ Building real-world, impactful projects <br/>
-  🎯 Goal to Craft sleek, scalable web apps and leave a mark in the dev world <br/>
-  📚 Continuously improving my skills and embracing new tech challenges
+  <strong>🌟 About Me</strong><br/><br/>
+  🧠 Currently obsessed with <strong>Next.js</strong> & full-stack magic <br/>
+  🔨 Droppin' real code, not just baby steps and boilerplates 😮‍💨 <br/>
+  💭 Dreaming in code, grinding for that dev glow-up 💻✨ <br/>
+  📈 Always learning, forever leveling up like it’s a damn RPG 🎮
 </p>
 
 <br/>
 
 <p align="center">
-  <strong>🛠 Language and tools</strong><br/><br/>
+  <strong>🧰 Tech Stack I Vibe With</strong><br/><br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,11 +41,11 @@
 <br/>
 
 <p align="center">
-  <strong>🔗 Let's Connect</strong><br/><br/>
+  <strong>🔗 Let’s Link Up</strong><br/><br/>
   <a href="https://x.com/Rehanskyyyy">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <br/>  
+  <br/>
   
   <a href="https://www.linkedin.com/in/rehan-mohammad-6717a4345/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,5 +60,9 @@
 <br/>
 
 <p align="center">
-  <span>"One step at a time, but always forward"</span>
+  🧢 for visual balance and main character energy
+</p>
+
+<p align="center">
+  <em>"One step at a time, but always forward"</em>
 </p>
