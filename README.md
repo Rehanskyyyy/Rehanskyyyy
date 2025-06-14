@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-  <em>"One step at a time, but always forward"</em>
+  <em>'One step at a time, but always forward'</em>
 </p>
