@@ -62,9 +62,5 @@
 <br/>
 
 <p align="center">
-  🧢 for visual balance and main character energy
-</p>
-
-<p align="center">
   <em>'One step at a time, but always forward'</em>
 </p>
