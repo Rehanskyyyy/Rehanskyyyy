@@ -1,21 +1,20 @@
 <h1 align="center">Yo What's up? Rehan here 🤟🏻</h1>
 
-<p align="center">Web Dev | MERN Stack | Making code look cool ⚡</p>
+<p align="center">MERN Stack | Exploring AI/ML</p>
 
 <br/>
 
 <p align="center">
   <strong>🌟 About Me</strong><br/><br/>
-  🧠 Currently obsessed with <strong>Next.js</strong> & full-stack magic <br/>
-  🔨 Droppin' real code, not just baby steps and boilerplates 😮‍💨 <br/>
-  💭 Dreaming in code, grinding for that dev glow-up 💻✨ <br/>
-  📈 Always learning, forever leveling up like it’s a damn RPG 🎮
+  Currently exploring <strong>AI/ML</strong> with a background in full-stack development. <br/>
+  Interested in intelligent systems, modern web technologies, and building products that are both useful and well-designed. <br/>
+  Focused on learning deeply, improving consistently, and creating meaningful projects along the way.
 </p>
 
 <br/>
 
 <p align="center">
-  <strong>🧰 Tech Stack I Vibe With</strong><br/><br/>
+  <strong>🛠 Tech Stack & Tools </strong><br/><br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -53,11 +52,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/>
-  
-  <a href="https://www.instagram.com/rehanskyyyy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 <br/>
 
